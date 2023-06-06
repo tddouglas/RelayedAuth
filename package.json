@@ -1,0 +1,27 @@
+{
+  "name": "relayed-auth",
+  "version": "0.0.1",
+  "description": "Relayed Auth listener for Adyen Relayed Auth functionality",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/tddouglas/RelayedAuth.git"
+  },
+  "keywords": [
+    "Relayed",
+    "Auth",
+    "Listener"
+  ],
+  "author": "Tyler Douglas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tddouglas/RelayedAuth/issues"
+  },
+  "homepage": "https://github.com/tddouglas/RelayedAuth#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
